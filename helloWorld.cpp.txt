@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Hello World!" << endl;
+	cout << "Goodbye and thanks for all the fish" << endl;
+
+}
